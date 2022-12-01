@@ -9,3 +9,4 @@ if __name__ == "__main__":
     print(fib2(5))
     print(fib2(10))
 
+# Not so efficient due to many recursive calls
